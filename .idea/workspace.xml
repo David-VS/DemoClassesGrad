@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e5b0a6c-bf4f-4cfc-8c1c-af13ca3f29ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DemoClassesGrad.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/ehb/demo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/ehb/demo/vormen/Cirkel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/ehb/demo/vormen/Driehoek.java" afterDir="false" />
+    <list default="true" id="4e5b0a6c-bf4f-4cfc-8c1c-af13ca3f29ee" name="Changes" comment="demo basic classe&#10;constructor, getter, setter, function">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/ehb/demo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/ehb/demo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/ehb/demo/vormen/Cirkel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/ehb/demo/vormen/Cirkel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,11 +76,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731934180008</updated>
-      <workItem from="1731934181104" duration="2356000" />
+      <workItem from="1731934181104" duration="4819000" />
     </task>
+    <task id="LOCAL-00001" summary="demo basic classe&#10;constructor, getter, setter, function">
+      <option name="closed" value="true" />
+      <created>1731936832840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731936832841</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="demo basic classe&#10;constructor, getter, setter, function" />
+    <option name="LAST_COMMIT_MESSAGE" value="demo basic classe&#10;constructor, getter, setter, function" />
   </component>
 </project>
